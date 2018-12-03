@@ -1,0 +1,2 @@
+class BookUserMapping < ApplicationRecord
+end
